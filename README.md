@@ -9,3 +9,5 @@ make re
 USAGE
 
 ./worlf3d [map].wf
+
+Note: 17.5/20
